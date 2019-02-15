@@ -1,0 +1,2 @@
+How is the stagin area different from the working directory and the repository? What value do you think it offer?
+    Staging area is between commit and working directory. status is added.
