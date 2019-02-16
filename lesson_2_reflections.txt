@@ -1,2 +1,5 @@
 How is the stagin area different from the working directory and the repository? What value do you think it offer?
     Staging area is between commit and working directory. status is added.
+
+What are some situations when branches would be helful in keeping your history organized? How would branches help?
+    If there's different features but cannot implement pararelly, you can maintain two features in different branch
